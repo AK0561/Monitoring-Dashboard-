@@ -105,3 +105,7 @@ To stop the containers, use the following command:
 ```sh
 docker-compose down
 ```
+
+## License
+
+This README and the associated code are provided under the [MIT License](LICENSE), allowing you to use and modify them for your blogging needs. Please review the license for more details.
